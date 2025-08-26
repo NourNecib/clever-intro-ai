@@ -13,7 +13,7 @@ const Index = () => {
         {/* Name - Main headline */}
         <div className="animate-fade-in-up">
           <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold hero-text mb-4">
-            Alex Developer
+            Nour Necib
           </h1>
         </div>
         
